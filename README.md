@@ -13,3 +13,15 @@ This is the second paragraph.
 - Second element
 
 [google](https://google.com)
+![Alt text](https://github.com/alsousha/test22/blob/main/assets/1.webp)
+
+
+  ```
+  const name = "Dan";
+  let age = 20
+  let vv= 55
+  ```
+
+other Text 
+
+**This is bold text**
